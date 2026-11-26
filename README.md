@@ -88,21 +88,3 @@ If you installed manually, delete `/Applications/Asya.app`. To remove your data 
   [kaikki.org](https://kaikki.org), licensed under
   [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
 - Typeface: [Inter](https://rsms.me/inter/), SIL Open Font License.
-
----
-
-## Українською
-
-**Asya** — застосунок для macOS, який допомагає запам'ятовувати англійські слова. Виділіть слово в будь-якому застосунку, натисніть **праву кнопку → Служби → Add to Asya**, оберіть переклад, і слово потрапить у ваш словник. Далі його можна прослуховувати, тренувати у вправах з інтервальним повторенням і стежити за прогресом та серією днів на панелі.
-
-**Встановлення:**
-
-```bash
-brew install --cask maksimvovk/asya/asya
-```
-
-Або завантажте `.dmg` з [Releases](https://github.com/MaksimVovk/homebrew-asya/releases) і перетягніть Asya в «Програми». Під час першого запуску відкрийте **Системні параметри → Приватність і безпека → «Усе одно відкрити»**, бо застосунок ще не підписаний Apple.
-
-Якщо пункт «Add to Asya» не з'являється, увімкніть його в **Системні параметри → Клавіатура → Скорочення клавіш → Служби → Текст**.
-
-Усі дані зберігаються локально на вашому Mac.
