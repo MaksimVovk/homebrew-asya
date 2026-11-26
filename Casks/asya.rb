@@ -1,6 +1,6 @@
 cask "asya" do
   version "1.0.0"
-  sha256 "PUT_SHA256_HERE"
+  sha256 "734e1795aec47a0ad3725421fd90334f5596ace795d4ffdb981b63a89e8ae50a"
 
   url "https://github.com/MaksimVovk/homebrew-asya/releases/download/v#{version}/Asya-#{version}.dmg"
   name "Asya"
